@@ -48,5 +48,5 @@ A complete data science pipeline to predict developer salaries using survey data
 - Git & GitHub
 
 ---
-
+Note: The raw data is not attached here considering it's size.
 _This project is part of my portfolio to demonstrate end-to-end data science capabilities._
